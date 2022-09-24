@@ -1,5 +1,5 @@
 # VSeeFace-LiveLink-Relay
-Send LiveLink IPhone tracking data to VSeeFace using iFacialMocap protocol
+Send [LiveLink](https://apps.apple.com/us/app/live-link-face/id1495370836) IPhone tracking data to [VSeeFace](https://github.com/emilianavt/VSeeFaceSDK) using iFacialMocap protocol
 
 I wanted to use my IPhone for facial tracking with the VSeeFace Vtubing app, but all of the apps it connects to require to pay.
 This python script will recieve data from the Unreal Engine LiveLink IOS app and reformat it as iFacialMocap data for use in VSeeFace (or other apps that may make use of this protocol)
